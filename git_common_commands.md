@@ -24,7 +24,7 @@ Show a pretty git history in the console with:
 
     git log --oneline --graph --decorate --all
 
-## Git Untrack a file
+## Git Untrack a file or folder
 
     git rm --cached file
     git rm -r --cached folder
