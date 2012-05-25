@@ -15,3 +15,9 @@
     git diff --stat --color master..branchName
 
     git diff --stat --color branchName..master
+
+## Branch renaming
+
+    git branch -m <old name> <new name>
+
+
