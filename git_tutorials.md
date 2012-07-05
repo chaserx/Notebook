@@ -10,4 +10,5 @@ http://superuser.com/questions/169695/what-are-your-favorite-git-aliases
 
 [Code for America - Skillshares - Git basics](https://github.com/codeforamerica/skillshares/tree/master/git_basics)
 
+[Try Github](http://try.github.com)
 
